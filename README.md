@@ -19,17 +19,17 @@ Alan Jose Muñoz Ramirez
 * Asi mismo, tener Anaconda3 instalado en la maquina.
 * Lista de los ejercicios contenidos en el repositorio:
 
-##Manual de trabajo para actividades dentro de jupyter notebook.
+## Manual de trabajo para actividades dentro de jupyter notebook.
 
 1 - Entrar al workspace y su folder (cmd: cd workspace/TC1002S_A01253099/)
 
 2 - Correr jupyter notebook dentro de esta (cmd: jupyter notebook)
 
-###Actividad: Obtencion de estadisticas descriptivas
+### Actividad: Obtencion de estadisticas descriptivas
 
 3 - Abrir el archivo llamado 'A01253099_Estadisticas_Descriptivas.ipynb'
 
-###Actividad: Mapas de calor y boxplot 
+### Actividad: Mapas de calor y boxplot 
 
 4 - Abrir el archivo llamado 'A01253099_MapasDeCalor_Bigotes.ipynb'
 
